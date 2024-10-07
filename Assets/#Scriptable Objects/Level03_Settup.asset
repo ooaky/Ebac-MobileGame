@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16da84829d81d224687e4c0f61eb7d29, type: 3}
+  m_Name: Level03_Settup
+  m_EditorClassIdentifier: 
+  artType: 2
+  levelPieces:
+  - {fileID: 2144849418412403247, guid: 56dae237666361c46b4dfa4b4e54839d, type: 3}
+  - {fileID: 9185156689382483109, guid: a09bd7dfb799caa46a224ac72df58d55, type: 3}
+  - {fileID: 9185156689382483109, guid: 03e9843cd53745341bac6317cf06f5b0, type: 3}
+  - {fileID: 9185156689382483109, guid: a09bd7dfb799caa46a224ac72df58d55, type: 3}
+  - {fileID: 2144849418412403247, guid: 56dae237666361c46b4dfa4b4e54839d, type: 3}
+  levelPiecesStart:
+  - {fileID: 2144849418412403247, guid: 3097e0ea635a62844a2a150973ae71c4, type: 3}
+  levelPiecesEnd:
+  - {fileID: 2144849418412403247, guid: c5d115d438e851545b6a6dd81ead6319, type: 3}
+  nOfPieces: 20
+  nOfPiecesStart: 1
+  nOfPiecesEnd: 1
